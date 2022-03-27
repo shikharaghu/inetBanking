@@ -1,0 +1,4 @@
+ 2022-03-16 05:43:48,326  INFO [main] ebanking:15 - url entered successfully
+2022-03-16 05:43:48,753  INFO [main] ebanking:19 - enter username
+2022-03-16 05:43:49,150  INFO [main] ebanking:21 - enter password
+2022-03-16 05:43:51,616  INFO [main] ebanking:28 - Login Test passed
